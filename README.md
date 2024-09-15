@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/happy raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="happy raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/happy-raj-543792257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="happy raj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kingraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kingraj1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kingraj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kingraj02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingraj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingraj001" height="30" width="40" /></a>
