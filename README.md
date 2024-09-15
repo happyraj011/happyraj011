@@ -1,3 +1,4 @@
+<img src="https://github.com/happyraj011/happyraj011/blob/main/Github%20banner.png" width="2000rem" >
 <h1 align="center">Hi 👋, I'm Happy Raj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1726381810~exp=1726385410~hmac=275dcf2720c83283fb3a37da7c84ce417d8a546dff1e581ebe8fc9a599ec87c7&w=1380">
